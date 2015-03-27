@@ -1,4 +1,11 @@
 {
   "name": "digizijn/captcha-extended",
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+
+  "autoload": {
+   "classmap": ["/"]
+  }
+
+
 }
+
