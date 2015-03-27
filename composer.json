@@ -3,9 +3,6 @@
   "minimum-stability": "dev",
 
   "autoload": {
-    "psr-0": {
-      "": "src"
-    },
   "classmap": ["CaptchaExtendedAction.php", "CaptchaExtendedValidator.php"]
   }
 }
