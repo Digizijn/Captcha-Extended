@@ -3,9 +3,7 @@
   "minimum-stability": "dev",
 
   "autoload": {
-    "psr-0": {
-      "": ""
-    },
+    "psr-0": {"captcha-extended": "src/"},
   "files": ["CaptchaExtendedAction.php", "CaptchaExtendedValidator.php"]
   }
 
