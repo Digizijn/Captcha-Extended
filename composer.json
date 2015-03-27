@@ -3,7 +3,7 @@
   "minimum-stability": "dev",
 
   "autoload": {
-   "classmap": ["CaptchaExtendedAction.php", "CaptchaExtendedValidator.php"]
+  "files": ["CaptchaExtendedAction.php", "CaptchaExtendedValidator.php"]
   }
 
 
