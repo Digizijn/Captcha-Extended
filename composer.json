@@ -1,3 +1,4 @@
 {
-  "name": "digizijn/faber"
+  "name": "digizijn/captcha-extended",
+  "minimum-stability": "dev"
 }
